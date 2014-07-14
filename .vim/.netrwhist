@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/skimmmer/Projects/personal_website'
+let g:netrw_dirhist_2='/Users/skimmmer/Projects/personal_website/_layouts'
+let g:netrw_dirhist_3='/Users/skimmmer/Projects/personal_website/blog'
+let g:netrw_dirhist_4='/Users/skimmmer/Projects/personal_website/projects'
+let g:netrw_dirhist_5='/Users/skimmmer/Projects/sickpost/node-email-templates/email_views/email_verify'
+let g:netrw_dirhist_6='/Users/skimmmer/Projects/sickpost/node-email-templates/test/templates/dust'
+let g:netrw_dirhist_7='/Users/skimmmer/Projects/sickpost/sickpost/views'
